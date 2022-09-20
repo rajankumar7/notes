@@ -1,5 +1,5 @@
 # Parallel-computing-with-python
-
+[![Python 3.9](https://img.shields.io/badge/python-3.7%20%7C%203.8%20%7C%203.9-brightgreen)](https://www.python.org/downloads/release/python-390/)
 ### Setup guideline
 
 1. Create a virtual environment
