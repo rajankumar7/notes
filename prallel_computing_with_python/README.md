@@ -3,7 +3,7 @@
 
 ### Context
 
-A taks which is having:
+A task which is having:
 - any IO operatoins involved
 - any API call
 - any other work which doesn't requires CPU 
